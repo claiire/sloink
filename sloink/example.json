@@ -1,0 +1,21 @@
+{
+    "title" : "Example",
+    "description" : "this is an example",
+    "questions" :
+    [{"text" : "What is the airspeed velocity of an unladen swallow?",
+      "options" : ["African or European?",
+                   "Dogs",
+                   "88 Miles Per Hour",
+                   "cats"],
+      "answers" : [0, 3]},
+    {"text" : "True or false? Claire's dog is the cutest",
+     "options" : ["True",
+                  "False",
+                  "Mu"],
+     "answers" : [0]
+    }
+    ]
+}
+
+
+
